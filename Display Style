@@ -26,4 +26,7 @@
 		Margin:0px;
 		Padding:0px;
 	}
+	body{
+	margin: 1cm!important;
+	}
 </style>
