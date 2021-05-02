@@ -1,9 +1,11 @@
 <?php
+
 	$T_Info = [
-		'Title'     => 'MS Word To Web Page',
-		'Author'    => 'TARA SHADEGA',
-		'Developer' => 'NSCSoft',
-		'Hostname'  => 'NSCSoft.inc'
+		'Release_Version'	=> '0.001',
+		'Title'						=> 'MS Word To Web Page',
+		'Author'    			=> 'TARA SHADEGA',
+		'Developer' 			=> 'NSCSoft',
+		'Hostname'  			=> 'NSCSoft.inc'
 	];
 
 /*/
