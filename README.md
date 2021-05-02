@@ -1,2 +1,2 @@
-# Style-MS-Word-To-Web-Page
+# MS Word Web Page
 Views for MS-Word Webpage files
